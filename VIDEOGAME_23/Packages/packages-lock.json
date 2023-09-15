@@ -34,7 +34,11 @@
     },
     "com.unity.ext.nunit": {
       "version": "1.0.6",
+<<<<<<< HEAD
       "depth": 1,
+=======
+      "depth": 0,
+>>>>>>> TavoBranch
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
@@ -101,6 +105,38 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
+=======
+    "com.unity.postprocessing": {
+      "version": "3.2.2",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.physics": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.probuilder": {
+      "version": "5.0.7",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.settings-manager": "1.0.3",
+        "com.unity.modules.physics": "1.0.0",
+        "com.unity.modules.imgui": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.recorder": {
+      "version": "3.0.3",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.timeline": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+>>>>>>> TavoBranch
     "com.unity.render-pipelines.core": {
       "version": "12.1.10",
       "depth": 1,
@@ -131,7 +167,11 @@
     },
     "com.unity.settings-manager": {
       "version": "1.0.3",
+<<<<<<< HEAD
       "depth": 2,
+=======
+      "depth": 1,
+>>>>>>> TavoBranch
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
